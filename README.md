@@ -9,7 +9,7 @@ The application is fully responsive, meaning it adapts to different screen sizes
 ##Getting Started
 To get started with this weather application, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/weather-project.git
+Clone the repository: git clone https://github.com/rohith20047/weather-project.git
 Open the index.html file in your web browser.
 Get an API key from Rapid API and add it to the weather.js file.
 Start using the application by entering the name of a city or town.
